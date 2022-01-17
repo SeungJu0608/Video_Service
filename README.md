@@ -1,3 +1,3 @@
 # Video_Service
-Video recommendation system using AWS and Deeplearning model with PyTorch.
+Video recommendation system using AWS and Deep Learning model with PyTorch.
 
